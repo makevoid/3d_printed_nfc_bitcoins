@@ -5,7 +5,7 @@ Probably we met at DevCore London and I handed you a physical 3D Printed Bitcoin
 The bitcoin (the NFC tag really) contains a link to this page and a bitcoin private key!!!
 The private key **should contain 10 mBTC** (~1.5 GBP atm)
 
-#### To retrieve them,
+#### To retrieve them
 
 - scan the NFC tag with an android phone
 - the NFC dialog will pop up linking you to this url and to an SMS action
@@ -22,6 +22,16 @@ Sorry if I messed up and your coin doesn't work, I was sleepy last night when I 
 Enjoy
 Francesco
 @makevoid
+
+#### 3d model (make your own tags)
+
+##### http://www.thingiverse.com/thing:706011
+
+#### videos
+
+##### Demo1: http://youtu.be/XvkjrJfUNgQ
+
+Making of: http://youtu.be/yFjw6WXUtZY
 
 #### toadd
 
